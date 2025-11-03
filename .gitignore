@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+dist/
+.venv/
+venv/
+pip-wheel-metadata/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Logs / runtime
+*.log
+*.pid
+*.sqlite3
+coverage.*
+htmlcov/
+.pytest_cache/
+.cache/
+
+# FastAPI/Uvicorn
+*.db
+*.sqlite
+*.sqlite3
+
+# Env / keys
+env/settings.py
