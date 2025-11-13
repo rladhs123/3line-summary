@@ -8,7 +8,7 @@ URL 또는 텍스트를 입력으로 받아 정확히 3문장으로 요약해주
 
 ```bash
 # 1) 의존성 설치
-conda create -n sejulcut python=3.11 -y
+conda create -n 3line-summary python=3.11 -y
 conda activate 3line-summary
 
 # 2) API 키 설정 (예시)
