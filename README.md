@@ -18,6 +18,7 @@ conda activate 3line-summary
 # 3) 서버 실행 (app.py 파일에 app = FastAPI())
 uvicorn app:app --reload
 ```
+## 실행 화면
 
 <img width="682" height="838" alt="Image" src="https://github.com/user-attachments/assets/ceffd8ea-8599-44ad-8049-6d2432ba8aa3" />
 
